@@ -1,0 +1,4 @@
+.env
+./src/firebase.js
+./src/firebaseAdmin.js
+./node_modules
